@@ -1,2 +1,2 @@
-# there are all presentations of related to cybersecurity.
+# there are all presentations related to cybersecurity.
 # 
